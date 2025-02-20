@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://d0qrneqrltgim"]
+
+[ext_resource type="PackedScene" uid="uid://jpiwjkmc0xh7" path="res://Models/Park/Park Bench.glb" id="1_esqmf"]
+
+[node name="StaticBody3D" type="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.626478, 0)
+
+[node name="Park Bench" parent="." instance=ExtResource("1_esqmf")]
+
+[node name="CollisionPolygon3D" type="CollisionPolygon3D" parent="."]
+depth = 1.4
+polygon = PackedVector2Array(0.690134, -0.605877, 0.541807, -0.614117, 0.430561, -0.309222, -0.434681, -0.317463, -0.537687, -0.597636, -0.727216, -0.585276, -0.632451, -0.309222, -0.920866, -0.321583, -0.912625, -0.144414, -0.574768, -0.140294, -0.492364, 0.238765, 0.488244, 0.255246, 0.591249, -0.160895, 0.871423, -0.173256, 0.875543, -0.309222, 0.595369, -0.300982)

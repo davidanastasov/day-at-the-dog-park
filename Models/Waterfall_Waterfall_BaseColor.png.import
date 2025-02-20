@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cluygd2jaocrd"
+path.s3tc="res://.godot/imported/Waterfall_Waterfall_BaseColor.png-86c86941bccbf79773685c013f21e497.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "66fa4b7c3934c8a7afacd34c03ce5a7c"
+}
+
+[deps]
+
+source_file="res://Models/Waterfall_Waterfall_BaseColor.png"
+dest_files=["res://.godot/imported/Waterfall_Waterfall_BaseColor.png-86c86941bccbf79773685c013f21e497.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
